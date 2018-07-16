@@ -1,0 +1,41 @@
+body {
+text-align: center;
+font-family: Helvetica;
+}
+
+h1 {
+  font-size: 70px;
+  font-weight: bold;
+  }
+
+  #landing {
+    background-image: url("C:/Projects/Broadway/resources/images/the-flatiron-building.png");
+    text-align: center;
+    color: white;
+}
+h2{
+    font-weight: bold;
+}
+
+a:link {
+  color: white;
+  font-size: 18px;
+  }
+  a:visited {
+    color: white;
+    }
+p{
+  font-size: 14px;
+}
+#designed {
+  background-image: url("C:/Projects/Broadway/resources/images/the-flatiron-building.png");
+  color: white;
+  font-weight: bold;
+  font-size: 23px;
+  }
+  #footer{
+    font-size: 11px;
+    background-color: dimgray;
+    text-align: left;
+    <--display: inline-block;-->
+  }
